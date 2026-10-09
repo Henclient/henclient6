@@ -1,0 +1,12 @@
+{
+  "key.category.henclient.main": "HenClient",
+  "key.henclient.gui": "Open ClickGUI",
+  "key.henclient.killaura": "Toggle KillAura",
+  "key.henclient.triggerbot": "Toggle TriggerBot",
+  "key.henclient.autototem": "Toggle AutoTotem",
+  "key.henclient.sprint": "Toggle Sprint",
+  "key.henclient.esp": "Toggle ESP",
+  "key.henclient.tracers": "Toggle Tracers",
+  "key.henclient.fullbright": "Toggle Fullbright",
+  "key.henclient.hud": "Toggle HUD"
+}

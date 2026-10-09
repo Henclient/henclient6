@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "henclient",
+  "version": "${version}",
+  "name": "HenClient",
+  "description": "HenClient - modular Fabric client.",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.hen.client.HenClient"] },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
